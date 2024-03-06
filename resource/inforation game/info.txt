@@ -1,0 +1,34 @@
+                                Đây là thông tin về game của chúng tôi (Game sokoban)
+    Nhóm chúng tôi gồm 5 thành viên:
+	+ Đặng Bá Qúi , 21130500 (Nhóm trưởng)
+	+ Trần Minh Quân , 21130494
+	+ Nguyễn Hữu Phước, 21130...
+	+ Bùi Trọng Linh, 21130...
+	+ Mạnh, 21130...
+
+    Sokoban (倉庫番 (Thương Khố Phiên) Sōkoban?) là trò chơi dạng câu đố trong đó người chơi phải đẩy một số khối vuông
+vượt qua chướng ngại vật để đến đích. Trò chơi đã được thiết kế vào năm 1981 bởi Hiroyuki Imabayashi và được ra mắt lần
+đầu vào tháng 12 năm 1982.
+
+    Trò chơi có dạng bảng ô vuông. Có một số khối vuông được đẩyđến đích (số ô đích đúng bằng số khối vuông). Chỉ có thể
+đẩy từng khối vuông một, và không thể kéo, cũng như không thể đẩy một dãy hai hay nhiều khối.
+
+    Khối vuông bị dính tường nếu như nó bị đẩy sát vào tường màhai bên tường đều là góc. Vì không thể kéo khối lại được
+nên coi như khối này bị mất, nó không thể được đưa đến đích trừ phi đích nằm đúng trên cạnh tường đó. Dính tường là một
+trường hợp cần tránh khi chơi.
+
+    Khối vuông bị dính tường nếu như nó bị đẩy sát vào tường màhai bên tường đều là góc. Vì không thể kéo khối lại được
+nên coi như khối này bị mất, nó không thể được đưa đến đích trừ phi đích nằm đúng trên cạnh tường đó. Dính tường là một
+trường hợp cần tránh khi chơi.
+
+    Khối vuông bị dính tường nếu như nó bị đẩy sát vào tường màhai bên tường đều là góc. Vì không thể kéo khối lại được
+nên coi như khối này bị mất, nó không thể được đưa đến đích trừ phi đích nằm đúng trên cạnh tường đó. Dính tường là một
+trường hợp cần tránh khi chơi.
+
+    Khối vuông bị dính tường nếu như nó bị đẩy sát vào tường màhai bên tường đều là góc. Vì không thể kéo khối lại được
+nên coi như khối này bị mất, nó không thể được đưa đến đích trừ phi đích nằm đúng trên cạnh tường đó. Dính tường là một
+trường hợp cần tránh khi chơi.
+
+    Khối vuông bị dính tường nếu như nó bị đẩy sát vào tường màhai bên tường đều là góc. Vì không thể kéo khối lại được
+nên coi như khối này bị mất, nó không thể được đưa đến đích trừ phi đích nằm đúng trên cạnh tường đó. Dính tường là một
+trường hợp cần tránh khi chơi.
